@@ -1,0 +1,4 @@
+class GraphAdapter {
+    // Methods to convert adjacency list to adjacency matrix and vice versa
+    
+}
