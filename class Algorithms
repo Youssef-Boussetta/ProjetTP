@@ -1,0 +1,16 @@
+class Algorithms {
+    
+    public void BFS(Graph graph) {
+        // Implementation
+    }
+
+    
+    public void DFS(Graph graph) {
+        // Implementation
+    }
+
+    
+    public void Dijkstra(Graph graph) {
+        // Implementation
+    }
+}
