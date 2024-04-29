@@ -1,0 +1,4 @@
+import java.util.List;
+class DirectedGraph extends Graph {
+    List<int[]> directedEdges;
+}
