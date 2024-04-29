@@ -1,0 +1,8 @@
+import java.util.Map;
+import java.util.List;
+class Tree extends Graph {
+    int root;
+    Map<Integer, Integer> parent;
+    Map<Integer, List<Integer>> children;
+    Map<Integer, Integer> depth;
+}
