@@ -1,0 +1,3 @@
+class GraphManaging implements IGraphManaging {
+    // Implementation 
+}
