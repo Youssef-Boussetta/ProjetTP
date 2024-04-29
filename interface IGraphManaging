@@ -1,0 +1,5 @@
+interface IGraphManaging {
+    void createGraph(Graph graph);
+    void updateGraph(Graph graph);
+    void deleteGraph(Graph graph);
+}
