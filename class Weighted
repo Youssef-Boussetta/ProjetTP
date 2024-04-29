@@ -1,0 +1,4 @@
+import java.util.Map;
+ class Weighted extends Graph {
+    Map<int[], Integer> weights;
+}
